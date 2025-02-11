@@ -1,0 +1,2 @@
+I am a Lebanese Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
+I am interested in a range of topics, including bioinformatics, astrophysics, cyber security, and operating systems.

@@ -1,0 +1,47 @@
+[
+    {
+        "grouping": "Artificial Intelligence & Machine Learning",
+        "skills": [
+            "Artificial Intelligence (AI)",
+            "Machine Learning",
+            "Computer Vision",
+            "Deep Learning",
+            {"name": "TensorFlow", "link": "https://www.tensorflow.org"},
+            {"name": "PyTorch", "link": "https://pytorch.org"}
+        ]
+    },
+    {
+        "grouping": "Research & Bioinformatics",
+        "skills": [
+            "Bioinformatics",
+            "Computational Biology",
+            "Research and Development (R&D)",
+            "Research Skills",
+            {"name": "Galaxy", "link": "https://usegalaxy.org"},
+            {"name": "LaTeX", "link": "https://www.latex-project.org"}
+        ]
+    },
+    {
+        "grouping": "LANGUAGES, OPERATING SYSTEMS & TOOLS",
+        "skills": [
+            "Python",
+            "Java",
+            "C",
+            "Rust",
+            "MongoDB",
+            {"name": "MySQL", "link": "https://www.mysql.com"},
+            {"name": "Git", "link": "https://git-scm.com"},
+            {"name": "Bash", "link": "https://www.gnu.org/software/bash/"},
+            {"name": "Linux", "link": "https://www.linux.org"}
+        ]
+    },
+    {
+        "grouping": "Containers & Cloud",
+        "skills": [
+            {"name": "Docker", "link": "https://docker.com/"},
+            {"name": "Oracle Cloud", "link": "https://www.oracle.com/cloud/"},
+            {"name": "Linux", "link": "https://www.linux.org"}
+        ]
+    }
+  ]
+  

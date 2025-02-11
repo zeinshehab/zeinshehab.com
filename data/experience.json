@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Graduate Research Assistant",
+        "company":"American University of Beirut",
+        "summary":"Worked on multiple research projects.\nInstructed multiple computer science labs.",
+        "range":"January 2025 - Present"
+    },
+    {
+        "role":"Competitive Programmer",
+        "company":"American University of Beirut",
+        "summary":"Solved over 150 project Euler problems and participated in programming tournaments. Won the Late Henri Qais Naccache Competitive Programming Award",
+        "range":"October 2021 - January 2023"
+    },
+    {
+        "role":"ABLE Hackathon Finalist",
+        "company":"American University of Beirut",
+        "summary":"Led team to develop real-time sign language translation model using TensorFlow and OpenCV.",
+        "range":"January 2020 - August 2020"
+    }
+]

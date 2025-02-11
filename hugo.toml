@@ -1,0 +1,45 @@
+title = "Zein Shehabeddine"
+baseURL = "https://zeinshehab.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Beirut, Lebanon"
+email = "zein@zeinshehab.com"
+favicon = "/favicon.ico"
+firstName = "Zein"
+lastName = "Shehabeddine"
+phone = "+961 79161025"
+profileImage = "img/profile.jpg"
+showQr = true
+showContact = false
+showBoards  = false
+showCertifications = false
+showSocializations = true
+
+sections = ["skills", "experience","education", "publications", "blog"]
+
+
+# [params.google]
+
+# [params.google.analytics]
+# rackerID = "XX-123446-01"
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://linkedin.com/in/zein-shehabeddine-2581861a7"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/ZeinShehab/"
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
