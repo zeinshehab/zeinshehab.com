@@ -14,14 +14,15 @@ favicon = "/favicon.ico"
 firstName = "Zein"
 lastName = "Shehabeddine"
 phone = "+961 79161025"
-profileImage = "img/profile.jpg"
+#profileImage = "img/profile.jpg"
+profileImage = "/favicon.ico"
 showQr = true
 showContact = false
 showBoards  = false
 showCertifications = false
 showSocializations = true
 
-sections = ["skills", "experience","education", "publications", "blog"]
+sections = ["skills", "experience","education", "projects", "publications", "blog"]
 
 
 # [params.google]
