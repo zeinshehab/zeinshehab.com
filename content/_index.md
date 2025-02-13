@@ -1,2 +1,1 @@
-I am a Lebanese Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including bioinformatics, astrophysics, cyber security, and operating systems.
+I am interested in computational methods for exploring complex systems in biology and physics, particularly bioinformatics and astrophysics. I also have an interest in systems-level computing, including cybersecurity, operating systems, and low-level programming.
