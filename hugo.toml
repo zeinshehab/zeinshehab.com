@@ -36,7 +36,7 @@ sections = ["skills", "experience","education", "projects", "publications", "blo
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/ZeinShehab/"
+    link = "https://github.com/zeinshehab/"
 
 
 [outputs]
