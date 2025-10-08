@@ -1,47 +1,44 @@
 [
-    {
-        "grouping": "Artificial Intelligence & Machine Learning",
-        "skills": [
-            "Artificial Intelligence (AI)",
-            "Machine Learning",
-            "Computer Vision",
-            "Deep Learning",
-            {"name": "TensorFlow", "link": "https://www.tensorflow.org"},
-            {"name": "PyTorch", "link": "https://pytorch.org"}
-        ]
-    },
-    {
-        "grouping": "Research & Bioinformatics",
-        "skills": [
-            "Bioinformatics",
-            "Computational Biology",
-            "Research and Development (R&D)",
-            "Research Skills",
-            {"name": "Galaxy", "link": "https://usegalaxy.org"},
-            {"name": "LaTeX", "link": "https://www.latex-project.org"}
-        ]
-    },
-    {
-        "grouping": "LANGUAGES, OPERATING SYSTEMS & TOOLS",
-        "skills": [
-            "Python",
-            "Java",
-            "C",
-            "Rust",
-            "MongoDB",
-            {"name": "MySQL", "link": "https://www.mysql.com"},
-            {"name": "Git", "link": "https://git-scm.com"},
-            {"name": "Bash", "link": "https://www.gnu.org/software/bash/"},
-            {"name": "Linux", "link": "https://www.linux.org"}
-        ]
-    },
-    {
-        "grouping": "Containers & Cloud",
-        "skills": [
-            {"name": "Docker", "link": "https://docker.com/"},
-            {"name": "Oracle Cloud", "link": "https://www.oracle.com/cloud/"},
-            {"name": "Linux", "link": "https://www.linux.org"}
-        ]
-    }
-  ]
+{
+    "grouping": "Applied Machine Learning",
+    "skills": [
+        "Clinical Machine Learning",
+        "Computational Genomics",
+        "Deep Learning",
+        "Computer Vision",
+        "Computational Linguistics",
+        "Natural Language Processing",
+        "Feature Engineering",
+        "Statistical Analysis",
+        "Data Analysis"
+    ]
+  },
+  {
+    "grouping": "Programming & Tools",
+    "skills": [
+        "Python",
+        "C",
+        "Java",
+        "Git",
+        "Linux",
+        "Bash",
+        "SQL",
+        {"name": "LaTeX", "link": "https://www.latex-project.org"},
+        {"name": "Overleaf", "link": "https://www.overleaf.com"},
+        {"name": "Docker", "link": "https://docker.com/"},
+        {"name": "Jupyter", "link": "https://jupyter.org"},
+        {"name": "VEP", "link": "https://www.ensembl.org/info/docs/tools/vep/index.html"}
+    ]
+  },
+  {
+    "grouping": "Cloud & Infrastructure",
+    "skills": [
+      "SSH",
+      "Containerization",
+      "Server Administration",
+      {"name": "Cloudflare", "link": "https://www.cloudflare.com"},
+      {"name": "Oracle Cloud", "link": "https://www.oracle.com/cloud/"}
+    ]
+  }
+]
   
