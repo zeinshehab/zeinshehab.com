@@ -21,7 +21,7 @@ showBoards  = false
 showCertifications = false
 showSocializations = true
 
-sections = ["skills", "experience","education", "projects", "publications", "blog"]
+sections = ["skills", "experience","education", "projects", "publications"]
 
 
 # [params.google]
@@ -37,6 +37,9 @@ sections = ["skills", "experience","education", "projects", "publications", "blo
     name = "GitHub"
     link = "https://github.com/zeinshehab/"
 
+[[params.handles]]
+    name = "CV"
+    link = "/pdf/vitae.pdf"
 
 [outputs]
 home = ["HTML", "JSON"]

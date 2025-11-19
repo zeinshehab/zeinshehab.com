@@ -5,7 +5,7 @@
   "featured": true,
   "description": "A study presenting a lightweight machine learning model for Arabic Sign Language recognition using Mediapipe hand-landmark features, achieving high accuracy on both public and newly collected Lebanese-dialect gesture datasets while requiring far fewer parameters than YOLO-based methods.",
   "tags": ["Arabic Sign Language", "Machine Learning", "Artificial Intelligence", "Computer Vision"],
-  "link": "/files/sign_language.pdf",
+  "link": "/pdf/sign_language.pdf",
   "weight": 500,
   "sitemap": {
     "priority": 0.8
