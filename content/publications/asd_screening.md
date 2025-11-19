@@ -7,7 +7,7 @@
   "tags": ["Computational Linguistics", "Machine Learning", "Artificial Intelligence"],
   "image": "",
   "link": "https://www.nature.com/articles/s41598-025-01500-6",
-  "weight": 500,
+  "weight": 100,
   "sitemap": {
     "priority": 0.8
   }

@@ -6,11 +6,20 @@
         "Computational Genomics",
         "Deep Learning",
         "Computer Vision",
-        "Computational Linguistics",
-        "Natural Language Processing",
         "Feature Engineering",
         "Statistical Analysis",
         "Data Analysis"
+    ]
+  },
+    {
+    "grouping": "Systems & Security",
+    "skills": [
+      "Cybersecurity",
+      "Operating Systems",
+      "Low-Level Programming",
+      "Zero-Knowledge Proofs (ZK)",
+      "Applied Cryptography",
+      "Performance Optimization"
     ]
   },
   {

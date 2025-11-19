@@ -1,1 +1,1 @@
-I am interested in computational methods for exploring complex systems in biology and physics, particularly bioinformatics and astrophysics. I also have an interest in systems-level computing, including cybersecurity, operating systems, and low-level programming.
+I am a computer science researcher interested in machine learning for bioinformatics, as well as cybersecurity and low-level programming.

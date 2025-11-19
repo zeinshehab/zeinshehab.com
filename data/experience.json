@@ -1,20 +1,21 @@
 [
     {
-        "role":"Graduate Research Assistant",
-        "company":"American University of Beirut",
-        "summary":"Worked on multiple research projects.\nInstructed multiple computer science labs.",
-        "range":"January 2025 - Present"
+        "role": "Graduate Research Assistant",
+        "company": "American University of Beirut",
+        "summary": "Conducting research in applied machine learning and bioinformatics, including projects on clinical prediction (PAD/CLTI), genetic variant classification (BRCA1/2), autism speech modeling, and bacterial operon annotation. Also instructed computer science labs in cybersecurity and data structures.",
+        "range": "January 2025 – Present"
     },
     {
-        "role":"Competitive Programmer",
-        "company":"American University of Beirut",
-        "summary":"Solved over 150 project Euler problems and participated in programming tournaments. Won the Late Henri Qais Naccache Competitive Programming Award",
-        "range":"October 2021 - January 2023"
+        "role": "Competitive Programmer",
+        "company": "American University of Beirut",
+        "summary": "Solved over 150 Project Euler problems and competed in programming tournaments. Awarded the Late Henri Qais Naccache Competitive Programming Award.",
+        "range": "October 2021 – January 2023"
     },
     {
-        "role":"ABLE Hackathon Finalist",
-        "company":"American University of Beirut",
-        "summary":"Led team to develop real-time sign language translation model using TensorFlow and OpenCV.",
-        "range":"January 2020 - August 2020"
+        "role": "ABLE Hackathon Finalist",
+        "company": "American University of Beirut",
+        "summary": "Led a team to develop a real-time sign language translation system using TensorFlow, OpenCV, and custom data collection pipelines.",
+        "range": "January 2020 - August 2020"
     }
+
 ]
