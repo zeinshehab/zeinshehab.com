@@ -3,7 +3,7 @@
   "date": "2022-05-10",
   "link": "https://github.com/zeinshehab/Connect-Four",
   "image": "/img/connect_four.png",
-  "description": "A high-performance Connect Four AI written in C using Negamax, iterative deepening, move ordering, and null-window search. Won an internal department competition against other student bots and also outperformed public online "hard" bots."
+  "description": "A high-performance Connect Four AI written in C using Negamax, iterative deepening, move ordering, and null-window search. Won an internal department competition against other student bots and also outperformed public online "hard" bots.",
   "tags": ["Algorithms", "Game AI", "Negamax", "Alpha-Beta", "Iterative Deepening", "C", "Artificial Intelligence"],
   "featured": false,
   "weight": 500

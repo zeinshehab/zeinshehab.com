@@ -3,10 +3,10 @@
   "date": "2025-11-12",
   "link": "https://github.com/zeinshehab/battleship-zk",
   "image": "/img/zk_battleship.png",
-  "description": "A zero-knowledge implementation of Battleship using the gnark proving system (Groth16) and a custom MiMC-based circuit. The project demonstrates private board commitments, constraint programming, proof generation, and verification for secure gameplay without revealing players' hidden boards."
+  "description": "A zero-knowledge implementation of Battleship using the gnark proving system (Groth16) and a custom MiMC-based circuit. The project demonstrates private board commitments, constraint programming, proof generation, and verification for secure gameplay without revealing players' hidden boards.",
   "tags": ["Cryptography", "Zero-Knowledge Proofs", "gnark", "Go", "Groth16", "MiMC", "Constraint Systems"],
   "fact": "",
-  "featured":true,
+  "featured": true,
   "weight": 100
 }
 
