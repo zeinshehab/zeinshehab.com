@@ -1,52 +1,69 @@
 [
-{
-    "grouping": "Applied Machine Learning",
+  {
+    "grouping": "Machine Learning & Data",
     "skills": [
-        "Clinical Machine Learning",
-        "Computational Genomics",
-        "Deep Learning",
-        "Computer Vision",
-        "Feature Engineering",
-        "Statistical Analysis",
-        "Data Analysis"
-    ]
-  },
-    {
-    "grouping": "Systems & Security",
-    "skills": [
-      "Cybersecurity",
-      "Operating Systems",
-      "Low-Level Programming",
-      "Virtual Machines",
-      "Applied Cryptography"
+      "PyTorch",
+      "TensorFlow",
+      "scikit-learn",
+      "Pandas",
+      "NumPy",
+      "OpenCV",
+      "MediaPipe",
+      "Deep Learning",
+      "Computer Vision",
+      "Statistical Analysis",
+      "Data Analysis",
+      "Computational Genomics"
     ]
   },
   {
-    "grouping": "Programming & Tools",
+    "grouping": "Programming",
     "skills": [
-        "Python",
-        "C",
-        "Java",
-        "Git",
-        "Linux",
-        "Bash",
-        "SQL",
-        {"name": "LaTeX", "link": "https://www.latex-project.org"},
-        {"name": "Overleaf", "link": "https://www.overleaf.com"},
-        {"name": "Docker", "link": "https://docker.com/"},
-        {"name": "Jupyter", "link": "https://jupyter.org"},
-        {"name": "VEP", "link": "https://www.ensembl.org/info/docs/tools/vep/index.html"}
+      "Python",
+      "C",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "Bash",
+      "HTML/CSS"
     ]
   },
   {
-    "grouping": "Cloud & Infrastructure",
+    "grouping": "Software & Systems",
     "skills": [
-      "SSH",
-      "Containerization",
-      "Server Administration",
-      {"name": "Cloudflare", "link": "https://www.cloudflare.com"},
-      {"name": "Oracle Cloud", "link": "https://www.oracle.com/cloud/"}
+      "Linux",
+      "Docker",
+      "Git",
+      "Flask",
+      "REST APIs",
+      "SQLite",
+      "CI/CD",
+      "HPC"
+    ]
+  },
+  {
+    "grouping": "Cloud & Tools",
+    "skills": [
+      {
+        "name": "Cloudflare",
+        "link": "https://www.cloudflare.com"
+      },
+      {
+        "name": "Oracle Cloud",
+        "link": "https://www.oracle.com/cloud/"
+      },
+      {
+        "name": "Jupyter",
+        "link": "https://jupyter.org"
+      },
+      {
+        "name": "LaTeX",
+        "link": "https://www.latex-project.org"
+      },
+      {
+        "name": "Overleaf",
+        "link": "https://www.overleaf.com"
+      }
     ]
   }
 ]
-  
