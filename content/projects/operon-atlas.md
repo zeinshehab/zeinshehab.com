@@ -21,9 +21,9 @@
   "weight": 50
 }
 
-OperonAtlas is a large-scale bioinformatics resource for exploring computationally predicted operons across more than **21,000 bacterial genomes** and nearly **90 million genes**. I developed the data processing and inference pipelines used to construct the atlas and built and deployed the accompanying web platform.
+OperonAtlas is a large-scale bioinformatics resource for exploring computationally predicted operons across more than **21,000 bacterial genomes** and nearly **90 million genes**. 
 
-The project involved processing genome annotations at scale, running operon inference across the full bacterial genome collection, organizing predicted operons into searchable families, and transforming the resulting data into a form suitable for interactive exploration.
+The project involved processing genome annotations at scale and constructing text representations of neighboring gene pairs from genomic features. A RoBERTa-based transformer model was then used to perform operon inference across the full genome collection, with the resulting predictions processed into searchable operons for interactive exploration through the web platform.
 
 The web platform allows users to:
 
@@ -35,7 +35,5 @@ The web platform allows users to:
 - **Download prediction data** for further analysis.
 
 The production system is deployed entirely on **Cloudflare**, using **Pages** for the frontend, **Workers** for the API, **D1** for structured queryable data, and **R2** for larger downloadable datasets. The frontend is implemented in HTML, CSS, and JavaScript, while the underlying data and inference pipelines were developed primarily in Python.
-
-OperonAtlas grew out of my graduate research in machine learning and bioinformatics and combines several aspects of my work: large-scale biological data processing, machine-learning inference, database design, API development, cloud deployment, and scientific software development.
 
 The resource is publicly available at **[operonatlas.org](https://operonatlas.org)**.
