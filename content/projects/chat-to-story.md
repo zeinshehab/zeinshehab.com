@@ -21,7 +21,7 @@
   "weight": 150
 }
 
-ChatToStory is an end-to-end pipeline for LLM-based story generation, developed as a team project for the Advanced Machine Learning course at AUB. The system converts conversational input into coherent narratives by combining large language models with a lightweight, fine-tuned model for task-specialized inference.
+ChatToStory is an end-to-end pipeline for LLM-based story generation. The system converts conversational input into coherent narratives by combining large language models with a lightweight, fine-tuned model for task-specialized inference.
 
 I led the team and worked across the full pipeline, which combines:
 
