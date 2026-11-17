@@ -1,0 +1,57 @@
+[
+  {
+    "grouping": "Programming",
+    "skills": [
+      "Python",
+      "C/C++",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "Bash",
+      "HTML/CSS"
+    ]
+  },
+  {
+    "grouping": "Machine Learning",
+    "skills": [
+      "PyTorch",
+      "TensorFlow",
+      "scikit-learn",
+      "Pandas",
+      "OpenCV",
+      "Ollama",
+      "Hugging Face",
+      "XGBoost"
+    ]
+  },
+  {
+    "grouping": "Web Development",
+    "skills": [
+      "React",
+      "Node.js",
+      "Flask",
+      "REST APIs"
+    ]
+  },
+  {
+    "grouping": "Systems & HPC",
+    "skills": [
+      "Linux",
+      "Git",
+      "Docker",
+      "SLURM",
+      "CUDA",
+      "CI/CD"
+    ]
+  },
+  {
+    "grouping": "Cloud & Databases",
+    "skills": [
+      "Cloudflare",
+      "Oracle Cloud",
+      "MongoDB",
+      "SQLite",
+      "MySQL"
+    ]
+  }
+]
