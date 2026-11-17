@@ -1,26 +1,9 @@
 [
   {
-    "grouping": "Machine Learning & Data",
-    "skills": [
-      "PyTorch",
-      "TensorFlow",
-      "scikit-learn",
-      "Pandas",
-      "NumPy",
-      "OpenCV",
-      "MediaPipe",
-      "Deep Learning",
-      "Computer Vision",
-      "Statistical Analysis",
-      "Data Analysis",
-      "Computational Genomics"
-    ]
-  },
-  {
     "grouping": "Programming",
     "skills": [
       "Python",
-      "C",
+      "C/C++",
       "Java",
       "JavaScript",
       "SQL",
@@ -29,41 +12,46 @@
     ]
   },
   {
-    "grouping": "Software & Systems",
+    "grouping": "Machine Learning",
     "skills": [
-      "Linux",
-      "Docker",
-      "Git",
-      "Flask",
-      "REST APIs",
-      "SQLite",
-      "CI/CD",
-      "HPC"
+      "PyTorch",
+      "TensorFlow",
+      "scikit-learn",
+      "Pandas",
+      "OpenCV",
+      "Ollama",
+      "Hugging Face",
+      "XGBoost"
     ]
   },
   {
-    "grouping": "Cloud & Tools",
+    "grouping": "Web Development",
     "skills": [
-      {
-        "name": "Cloudflare",
-        "link": "https://www.cloudflare.com"
-      },
-      {
-        "name": "Oracle Cloud",
-        "link": "https://www.oracle.com/cloud/"
-      },
-      {
-        "name": "Jupyter",
-        "link": "https://jupyter.org"
-      },
-      {
-        "name": "LaTeX",
-        "link": "https://www.latex-project.org"
-      },
-      {
-        "name": "Overleaf",
-        "link": "https://www.overleaf.com"
-      }
+      "React",
+      "Node.js",
+      "Flask",
+      "REST APIs"
+    ]
+  },
+  {
+    "grouping": "Systems & HPC",
+    "skills": [
+      "Linux",
+      "Git",
+      "Docker",
+      "SLURM",
+      "CUDA",
+      "CI/CD"
+    ]
+  },
+  {
+    "grouping": "Cloud & Databases",
+    "skills": [
+      "Cloudflare",
+      "Oracle Cloud",
+      "MongoDB",
+      "SQLite",
+      "MySQL"
     ]
   }
 ]
