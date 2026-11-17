@@ -18,7 +18,7 @@
   "weight": 300
 }
 
-SpaceFood is a full-stack social platform for discovering and sharing recipes, developed as a team project for the Software Engineering course at AUB.
+SpaceFood is a full-stack social platform for discovering and sharing recipes.
 
 I led the team in building the platform end-to-end, including:
 
